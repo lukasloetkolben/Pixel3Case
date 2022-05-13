@@ -1,4 +1,5 @@
 # Case for Google Pixel 3 (Openpilot)
+If you have any questions contact me on Discord: loetkolben#2962
 
 ## Black Panda Version
 Parts:

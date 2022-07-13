@@ -1,5 +1,4 @@
 # Case for Google Pixel 3 (Openpilot)
-non-commerical use permitted!
 
 If you have any questions contact me on Discord: loetkolben#2962
 
